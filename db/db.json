@@ -6,16 +6,6 @@
       "lastName": "Фамилия"
     },
     {
-      "id": 6,
-      "firstName": "Keely",
-      "lastName": "Lindgren"
-    },
-    {
-      "id": 8,
-      "firstName": "Joanny",
-      "lastName": "Ebert"
-    },
-    {
       "id": 10,
       "firstName": "Aiyana",
       "lastName": "Carter"
@@ -104,6 +94,16 @@
       "firstName": "Алексей",
       "lastName": "Смирнов",
       "id": 28
+    },
+    {
+      "firstName": "Egor",
+      "lastName": "Purlats",
+      "id": 29
+    },
+    {
+      "firstName": "Anton",
+      "lastName": "Belov",
+      "id": 30
     }
   ]
 }

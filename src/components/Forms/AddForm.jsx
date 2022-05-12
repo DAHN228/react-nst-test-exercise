@@ -36,7 +36,7 @@ function AddForm() {
     firstName: '',
     lastName: '',
   });
-  function submit(e) {
+  function submit() {
     // if (data.firstName.value != null && data.lastName.value != null) {
     Axios.post(url, {
       firstName: data.firstName,
@@ -58,7 +58,7 @@ function AddForm() {
     // });
     showToast('success');
     // } else {
-    e.preventDefault();
+    // e.preventDefault();
     //   showToast('danger');
     // }
   }
