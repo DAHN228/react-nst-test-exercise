@@ -1,0 +1,16 @@
+.MobileButton {
+  display: flex;
+  justify-content: center;
+  padding: 7px;
+  margin: 5px;
+  width: 32px;
+  border: none;
+  background-color: #a0cddd8d;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 12px;
+}
+.MobileButton:hover {
+  cursor: pointer;
+  background-color: #a0cddd8d;
+}

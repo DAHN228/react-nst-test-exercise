@@ -1,0 +1,100 @@
+.personsList {
+  width: 80%;
+  list-style: none;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+.personsList :hover {
+  background-color: #eee;
+}
+.personsList li:first-child {
+  padding-top: 15px;
+
+  padding-bottom: 10px;
+  background-color: #eee;
+  font-weight: bold;
+}
+.personsList li {
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.personsList li img {
+  width: 24px;
+  height: 24px;
+  padding: 0 20px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 80vh;
+  overflow: auto;
+  margin-bottom: 5vh;
+}
+.personsList li .firstName {
+  text-align: left;
+}
+
+.personsList li .lastName {
+  text-align: left;
+}
+.personsList button:hover {
+  background-color: #add8d6;
+}
+
+@media (max-width: 600px) {
+.personsList {
+  width: 100%;
+  font-size: 16px;
+}
+.personsList li {
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.personsList li img {
+  width: 26px;
+  height: 26px;
+}
+.container {
+  height: 85vh;
+  width: 85vw;
+  margin-bottom: 3vh;
+  margin-left: 6vw;
+}
+}
+@media (max-width: 300px) {
+.personsList {
+  width: 100%;
+  font-size: 14px;
+}
+.personsList li {
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.personsList li img {
+  width: 24px;
+  height: 24px;
+}
+.container {
+  height: 85vh;
+  width: 85vw;
+  margin-bottom: 3vh;
+  margin-left: 6vw;
+}
+}

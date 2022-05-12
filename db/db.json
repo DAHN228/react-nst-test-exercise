@@ -1,0 +1,109 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "firstName": "Имя",
+      "lastName": "Фамилия"
+    },
+    {
+      "id": 6,
+      "firstName": "Keely",
+      "lastName": "Lindgren"
+    },
+    {
+      "id": 8,
+      "firstName": "Joanny",
+      "lastName": "Ebert"
+    },
+    {
+      "id": 10,
+      "firstName": "Aiyana",
+      "lastName": "Carter"
+    },
+    {
+      "id": 11,
+      "firstName": "Jared",
+      "lastName": "Bechtelar"
+    },
+    {
+      "id": 12,
+      "firstName": "Rodrigo",
+      "lastName": "Stark"
+    },
+    {
+      "id": 13,
+      "firstName": "Alan",
+      "lastName": "Treutel"
+    },
+    {
+      "id": 15,
+      "firstName": "Genevieve",
+      "lastName": "Baumbach"
+    },
+    {
+      "id": 16,
+      "firstName": "Jaquan",
+      "lastName": "Miller"
+    },
+    {
+      "id": 17,
+      "firstName": "Euna",
+      "lastName": "Gerlach"
+    },
+    {
+      "id": 18,
+      "firstName": "Hardy",
+      "lastName": "Harris"
+    },
+    {
+      "id": 19,
+      "firstName": "Deangelo",
+      "lastName": "Johnson"
+    },
+    {
+      "id": 20,
+      "firstName": "Adrain",
+      "lastName": "Bradtke"
+    },
+    {
+      "id": 21,
+      "firstName": "Shakira",
+      "lastName": "Auer"
+    },
+    {
+      "id": 22,
+      "firstName": "Addison",
+      "lastName": "Luettgen"
+    },
+    {
+      "id": 23,
+      "firstName": "Krystal",
+      "lastName": "Cassin"
+    },
+    {
+      "id": 24,
+      "firstName": "Brock",
+      "lastName": "Rohan"
+    },
+    {
+      "id": 25,
+      "firstName": "Ansley",
+      "lastName": "Macejkovic"
+    },
+    {
+      "firstName": "Данила",
+      "lastName": "Ермаков",
+      "id": 26
+    },
+    {
+      "firstName": "Дмитрий",
+      "lastName": "Ермаков",
+      "id": 27
+    },
+    {
+      "firstName": "Алексей",
+      "lastName": "Смирнов",
+      "id": 28
+    }
+  ]
+}

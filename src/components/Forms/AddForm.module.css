@@ -1,0 +1,20 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+form input {
+  border-color: #ccc;
+  border-style: solid;
+  border-radius: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 7px;
+  margin: 15px;
+}
+
+form button {
+  margin: 0 15px 15px 15px;
+}
